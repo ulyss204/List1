@@ -1,0 +1,47 @@
+section{
+	width: 300px;
+    background-color: #81b3d2;
+   
+    text-transform: capitalize;
+    margin: 0 auto;
+}
+#das{
+	display: block;
+    margin: 0 auto;
+    padding: 0;
+    width: 70px;
+    padding-top: 5px;
+}
+.das__item{
+	display: block;
+    background-color: #fff;
+    text-align: center;
+    margin-top: 5px;
+    color: #766357;
+}
+.das__cross{
+	float: right;
+	cursor: pointer;
+}
+#inp{
+	display: block;
+    margin: 15px auto;
+    width: 210px;
+}
+#btn{
+	margin: auto;
+    display: block;
+    width: 90px;
+    background-color: transparent;
+    border: 1px solid #766357;
+    height: 30px;
+    margin-bottom: 10px;
+    font-family: monospace;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    cursor: pointer;
+    color: #766357;
+}
+#btn:hover{
+	opacity: 0.6;
+}
