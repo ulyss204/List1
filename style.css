@@ -22,7 +22,7 @@ section{
 .das__cross{
 	float: right;
 	cursor: pointer;
-	
+
 }
 #inp{
 	display: block;
@@ -45,4 +45,9 @@ section{
 }
 #btn:hover{
 	opacity: 0.6;
+}
+#text{
+	text-align: center;
+	text-transform: uppercase;
+	color: red;
 }
